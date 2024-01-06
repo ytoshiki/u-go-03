@@ -1,4 +1,4 @@
-#Application Requirements
+# Application Requirements
 
 - Application flow:
   - At a specified daily time, call the allergy API endpoints

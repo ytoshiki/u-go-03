@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  u-go-03:
+    build: .
+    restart: unless-stopped
